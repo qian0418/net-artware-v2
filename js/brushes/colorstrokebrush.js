@@ -1,5 +1,5 @@
-var x= Math.random(0, 255);
- var y= Math.random(0, 255);
+var x= Math.random(0,255);
+ var y= Math.random(0,255);
  var z= Math.random(0,255);
  var p= 40/Math.pow((windows.input.x-m)^2+(windows.input.y-n)^2,1/4);
 
